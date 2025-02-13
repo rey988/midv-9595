@@ -1,5 +1,5 @@
 # midv-9595
-Application modular for MIDV
+Module for MIDV (written in Rust with gRPC support)
 
-Install by import as modular in your MIDV-959
-Copyright Raymond 2025
+Install by import as modular in your MIDV
+Free to use.
